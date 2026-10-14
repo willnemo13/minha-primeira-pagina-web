@@ -14,4 +14,4 @@ Esta é minha primeira página desenvolvida na disciplina Programação Web I. A
 
 ## Evidência das DevTools
 
-![Evidência da página e das DevTools](imagens/evidencia-devtools.png)
+![Evidência da página e das DevTools](evidencia-devtools.png)
